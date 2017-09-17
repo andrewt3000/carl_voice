@@ -5,7 +5,7 @@ This is similar to passing the [Turing Test](https://en.wikipedia.org/wiki/Turin
 
 - In [1966  Joseph Weizenbaum created Eliza, a rogerian therapist](http://web.stanford.edu/class/linguist238/p36-weizenabaum.pdf), which is based on keyword matching. 
 - [Ellie, a virtual therapist, has been used in a study to diagnose PTSD](http://www.economist.com/news/science-and-technology/21612114-virtual-shrink-may-sometimes-be-better-real-thing-computer-will-see) for the US military and DARPA. 
-- In 2017, Stanford Psychologist Alison Darcy launched [woebot](https://www.woebot.io/), a chatbot programmed to implement cognitive behavioral therapy based on [this research](https://mental.jmir.org/2017/2/e19/). 
+- In 2017, Stanford Psychologist Alison Darcy launched [woebot](https://www.woebot.io/), a chatbot programmed to implement cognitive behavioral therapy based on [this research](https://mental.jmir.org/2017/2/e19/). Also see [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/article-abstract/2488315)
 - [X2AI](https://x2.ai/) is a company that plans to create a therapist bot named Tess. 
 - [Xiaoice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiduLqknavWAhVCwiYKHYDbArkQFggoMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXiaoice&usg=AFQjCNFNCsKZxanfEkvYaFaYEudECm-DwA) is a [conversational](https://www.nytimes.com/interactive/2015/07/27/science/chatting-with-xiaoice.html?mcubz=0) Chinese Microsoft Chatbot. 
 
