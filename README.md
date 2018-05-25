@@ -55,6 +55,8 @@ Deep learning has made many advancements including speech recognition, object re
 #### Sequence to Sequence
 [A neural conversation model](http://arxiv.org/pdf/1506.05869v3.pdf) uses the seq2seq framework which was originally designed to do machine translation.  It takes a single sentence like "What is the purpose of life?" and  "translates" it to a single sentence response like "to serve the greater good." This research powers the [Smart Reply feature](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html) for the Google Inbox app that presents users with several possible replies to emails. The Seq2seq framework has also been used to successfully rewrite Google's production translation services.  (see [Google blog post](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) and [New York Times article](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) and [Jeff Dean give high level explanation](https://youtu.be/HcStlHGpjN8?t=1494)). The seq2seq model is used in Google's translation in combination with a beam search. The seq2seq model predicts one word at a time, but the beam search buffers the most probable phrases and chooses the most probable overall phrase.  
 
+![seq2seq dialog generation](https://github.com/andrewt3000/carl_voice/raw/master/nct-seq2seq.png)
+
 State of the art translation systems, such as [Google Transformer](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html), are using new models that consider relationships between all words in a sentence rather than each word in a sequence.  
 
 #### Diversity
