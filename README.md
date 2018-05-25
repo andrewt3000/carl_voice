@@ -51,9 +51,9 @@ Counselors using reflective listening don’t disclose personal information. If 
 
 #### Consistent voice
 Here is an example of potential responses that maintain a consitent voice from examples in Neural Conversation Model:  
-Human: what is your job ?  
-Machine: You're curious about my qualifications.
-Human: what do you do ?  
+Human: what is your job?  
+Machine: You're curious about my qualifications.  
+Human: what do you do?  
 Machine: What is important to you about knowing that.  
 
 # Deep Learning
