@@ -64,7 +64,7 @@ Deep learning has made many advancements including speech recognition, object re
 
 ![seq2seq dialog generation](https://github.com/andrewt3000/carl_voice/raw/master/nct-seq2seq.png)
 
-State of the art translation systems, such as [Google Transformer](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html), are using new models that consider relationships between all words in a sentence rather than each word in a sequence. Here is an interesting paper that attempts to use [Transformer for chatbots](https://github.com/ricsinaruto/Seq2seqChatbots).  
+Update: As of 2017, State of the art translation systems, such as [Google Transformer](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html), are using models that use attention to consider relationships between all words in a sentence rather than each word in a sequence. As of yet, this model has not beaten the seq2seq model for chat dialog. There has been at an attempt. [Transformer for chatbots](https://github.com/ricsinaruto/Seq2seqChatbots).  
 
 #### Diversity
 A common problem for generative models is repeating generic phrases such as "I don't know." Diversity in responses is the topic of [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541v3.pdf) and [A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/abs/1510.03055). 
