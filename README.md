@@ -1,5 +1,5 @@
 # Counseling and Machine Learning
-Carl is a proposed project to train an autonomous agent to do text--based chat counseling. Live counselors chat with clients using reflective listening and record dialog data.  This training data and machine learning train an increasingly autonomous agent capable of counseling clients. Carl is an acronym for computer assisted reflective listener, and an homage to Carl Rogers, the pioneer of reflective listening.   
+Carl is a proposed project to create a chatbot for counseling. Live counselors chat with clients using reflective listening and record dialog data.  This training data and machine learning train a chatbot capable of counseling clients or assisting counselors with suggestions. Carl is an acronym for computer assisted reflective listener, and an homage to Carl Rogers, the pioneer of reflective listening.   
 
 This is similar to passing the [Turing Test](https://en.wikipedia.org/wiki/Turing_test), where users can't distinguish a live person from a machine.  It was first [posed by Alan Turing in 1950](http://www.loebner.net/Prizef/TuringArticle.html). Here is a list of similar research papers and products: 
 
