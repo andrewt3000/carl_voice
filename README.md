@@ -44,18 +44,17 @@ Counselor: “What do you think your options are?”
 Client: “What should I do?”  
 Counselor: "You wish I could give you some advice about this."
 
+To bring this all together, here is an example of potential responses that maintain a consitent voice from examples in Neural Conversation Model.    
+Human: what is your job?  
+Machine: You're curious about my qualifications.  
+Human: what do you do?  
+Machine: What is important to you about knowing what I do?  
+
 
 #### Non-disclosure
 Counselors using reflective listening don’t disclose personal information. If a client asks, “Do you have kids?,”  a counselor might respond with an open ended question such as “What’s the reason you ask?” or to summarize the underlying emotion  “You are concerned that someone who doesn't have kids won't be able to relate to you.” Because counselors' don't disclose personal information one counselor’s response shouldn’t conflict with another’s.  If you disclosed personal information such as how many children you have  it would conflict with other counselors and not serve as consistent training data. This is a key concept that mitigates the consistent voice problem posed by many large dialog corpora.  
 #### Examples of reflective listening
 ![reflective listening](https://github.com/andrewt3000/carl_voice/raw/master/reflecting.png)
-
-#### Consistent voice
-Here is an example of potential responses that maintain a consitent voice from examples in Neural Conversation Model:  
-Human: what is your job?  
-Machine: You're curious about my qualifications.  
-Human: what do you do?  
-Machine: What is important to you about knowing that.  
 
 # Deep Learning
 Deep learning has made many advancements including speech recognition, object recognition, and machine translation. Companies are using deep learning for many language--related tasks such as to [improving searches](http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440), [image captioning](http://www.wired.com/2015/10/facebook-artificial-intelligence-describes-photo-captions-for-blind-people/), and creating question--answering agents and assistants, such as Apple's Siri, Amazon's Alexa, Microsoft's Cortana, and Google's Assistant. Many of these Deep learning techniques are applicable to dialog systems.
