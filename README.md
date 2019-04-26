@@ -15,9 +15,10 @@ Other Commercial apps: [Replika](https://replika.ai/), [X2AI Tess](https://x2.ai
 
 #### Potential Data Sources
 - [How to help someone feel better: NLP for mental health](https://nlp.stanford.edu/blog/how-to-help-someone-feel-better-nlp-for-mental-health/) - [NLP research and analysis](https://arxiv.org/abs/1605.04462) of effective counseling messages and techniques, includes a data source from [crisis text line](https://twitter.com/CrisisTextLine) with over 80,000 counseling sessions. [Data set](https://www.crisistextline.org/philosophy) can be obtained through external partnership.  
-- [Daily Dialog: A Manually Labelled Multi-turn Dialogue Dataset](https://arxiv.org/abs/1710.03957) 2017 dataset that 
+- [Daily Dialog: A Manually Labelled Multi-turn Dialogue Dataset](https://arxiv.org/abs/1710.03957) 2017   
 
-Deep learning algorithms have advanced generative language models and dialog systems. See  and [GPT2 2018](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [GPT2 code](https://github.com/openai/gpt-2)   
+Deep learning algorithms have advanced generative language models and dialog systems. See [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)   and [GPT-2 2018](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)   
+
 This proposal explains how reflective listening solves the *inconsistent voice* problem that occurs in many chatbots. The inconsistent voice problem is conflicting responses often in response to personal or situational questions. Reflective listening techniques avoid the inconsistent voice problem, largely by deflecting personal questions. This document is also a primer on state of the art deep learning algorithms for dialog generation. It concludes with proposals for other potential issues including ethics, privacy and data collection.
 
 # Purpose of reflective listening
