@@ -13,7 +13,7 @@ This is similar to passing the [Turing Test](https://en.wikipedia.org/wiki/Turin
 - [GPT-2](https://openai.com/blog/better-language-models/) Open AI large transformer-based language model. Generates realistic and coherent synthetic text.  
 - [Daily Dialog: A Manually Labelled Multi-turn Dialogue Dataset](https://arxiv.org/abs/1710.03957) 2017 dataset that 
 
-Deep learning algorithms have advanced generative language models and dialog systems. [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869) [GPT2 2018](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [GPT2 code](https://github.com/openai/gpt-2)   
+Deep learning algorithms have advanced generative language models and dialog systems. See [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869) and [GPT2 2018](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) [GPT2 code](https://github.com/openai/gpt-2)   
 
 Many datasets for training suffer from an inconsistent voice. The inconsistent voice problem is conflicting responses often in response to personal or situational questions. One key proposal of this document is that reflective listening techniques avoid the inconsistent voice problem, largely by deflecting personal questions. This document is also a primer on state of the art deep learning algorithms for dialog. It concludes with proposals for other potential issues including ethics, privacy and data collection.
 
