@@ -1,9 +1,10 @@
 # Counseling and Machine Learning
 Carl is a proposed project to create a deep learning chatbot for counseling. Counselors chat with clients using reflective listening and generate dialog training data.  This training data and advanced machine learning techniques train a chatbot capable of counseling clients or assisting counselors with suggestions. Carl is an acronym for computer assisted reflective listener, and an homage to Carl Rogers, the pioneer of reflective listening.   
 
-This is similar to passing the [Turing Test](https://en.wikipedia.org/wiki/Turing_test), where users can't distinguish a live person from a machine.  It was first [posed by Alan Turing in 1950](http://www.loebner.net/Prizef/TuringArticle.html). Here is a list of related research and commercial apps: 
+Here is a list of related research and commercial apps: 
 
 #### Research and commercial apps
+- [Turing Test by Alan Turing in 1950](http://www.loebner.net/Prizef/TuringArticle.html) users can't distinguish a live person from a machine.  
 - In [1966  Joseph Weizenbaum created Eliza, a rogerian therapist](http://web.stanford.edu/class/linguist238/p36-weizenabaum.pdf), which is based on keyword matching. 
 - [Ellie, a virtual therapist, has been used in a study to diagnose PTSD](http://www.economist.com/news/science-and-technology/21612114-virtual-shrink-may-sometimes-be-better-real-thing-computer-will-see) for the US military and DARPA. 
 - In 2017, Stanford Psychologist Alison Darcy launched [woebot](https://www.woebot.io/), a chatbot programmed to implement cognitive behavioral therapy based on [this research](https://mental.jmir.org/2017/2/e19/). Also see [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/article-abstract/2488315)  
