@@ -4,7 +4,7 @@ Carl is a proposed project to create a deep learning chatbot for counseling. Cou
 Here is a list of related research and commercial apps: 
 
 #### Research and commercial apps
-- [Turing Test by Alan Turing in 1950](http://www.loebner.net/Prizef/TuringArticle.html) users can't distinguish a live person from a machine.  
+- [Turing Test by Alan Turing in 1950](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) Proposes imitation game testing if users can distinguish a live person from a machine.  
 - In [1966  Joseph Weizenbaum created Eliza, a rogerian therapist](http://web.stanford.edu/class/linguist238/p36-weizenabaum.pdf), which is based on keyword matching. 
 - [Ellie, a virtual therapist, has been used in a study to diagnose PTSD](http://www.economist.com/news/science-and-technology/21612114-virtual-shrink-may-sometimes-be-better-real-thing-computer-will-see) for the US military and DARPA. 
 - In 2017, Stanford Psychologist Alison Darcy launched [woebot](https://www.woebot.io/), a chatbot programmed to implement cognitive behavioral therapy based on [this research](https://mental.jmir.org/2017/2/e19/). Also see [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/article-abstract/2488315)  
