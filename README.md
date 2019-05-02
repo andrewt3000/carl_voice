@@ -8,17 +8,17 @@ Here is a list of related research and commercial apps:
 - In [1966  Joseph Weizenbaum created Eliza, a rogerian therapist](http://web.stanford.edu/class/linguist238/p36-weizenabaum.pdf), which is based on keyword matching. 
 - [Ellie, a virtual therapist, has been used in a study to diagnose PTSD](http://www.economist.com/news/science-and-technology/21612114-virtual-shrink-may-sometimes-be-better-real-thing-computer-will-see) for the US military and DARPA. 
 - In 2017, Stanford Psychologist Alison Darcy launched [woebot](https://www.woebot.io/), a chatbot programmed to implement cognitive behavioral therapy based on [this research](https://mental.jmir.org/2017/2/e19/). Also see [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/article-abstract/2488315)  
-Other Commercial apps: [Replika](https://replika.ai/), [X2AI Tess](https://x2.ai/) 
-- [Xiaoice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiduLqknavWAhVCwiYKHYDbArkQFggoMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXiaoice&usg=AFQjCNFNCsKZxanfEkvYaFaYEudECm-DwA) is a [conversational](https://www.nytimes.com/interactive/2015/07/27/science/chatting-with-xiaoice.html?mcubz=0) Chinese Microsoft Chatbot. Microsoft also produced, but shut down English chatbots: [Tay](https://en.wikipedia.org/wiki/Tay_(bot)) and Zo. 
+Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](https://github.com/lukalabs/cakechat)), [X2AI Tess](https://x2.ai/) 
+- [Xiaoice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiduLqknavWAhVCwiYKHYDbArkQFggoMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXiaoice&usg=AFQjCNFNCsKZxanfEkvYaFaYEudECm-DwA) is a [conversational](https://www.nytimes.com/interactive/2015/07/27/science/chatting-with-xiaoice.html?mcubz=0) Chinese Microsoft Chatbot. Microsoft also produced, but shut down English chatbots: [Tay](https://en.wikipedia.org/wiki/Tay_(bot)) and [Zo](https://twitter.com/zochats/with_replies?lang=en). 
 - [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)  
-- [GPT-2](https://openai.com/blog/better-language-models/) Open AI large transformer-based language model. Generates realistic and coherent synthetic text.  
+- [GPT-2](https://openai.com/blog/better-language-models/) Open AI large transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)   
 - [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
+- [Building Chatbot with emotion](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)
 
 #### Potential Data Sources
 - [How to help someone feel better: NLP for mental health](https://nlp.stanford.edu/blog/how-to-help-someone-feel-better-nlp-for-mental-health/) - [NLP research and analysis](https://arxiv.org/abs/1605.04462) of effective counseling messages and techniques, includes a data source from [crisis text line](https://twitter.com/CrisisTextLine) with over 80,000 counseling sessions. [Data set](https://www.crisistextline.org/philosophy) can be obtained through external partnership.  
 - [Daily Dialog: A Manually Labelled Multi-turn Dialogue Dataset](https://arxiv.org/abs/1710.03957) 2017   
 
-Deep learning algorithms have advanced generative language models and dialog systems. See [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)   and [GPT-2 2018](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)   
 
 This proposal explains how reflective listening solves the *inconsistent voice* problem that occurs in many chatbots. The inconsistent voice problem is conflicting responses often in response to personal or situational questions. Reflective listening techniques avoid the inconsistent voice problem, largely by deflecting personal questions. This document is also a primer on state of the art deep learning algorithms for dialog generation. It concludes with proposals for other potential issues including ethics, privacy and data collection.
 
