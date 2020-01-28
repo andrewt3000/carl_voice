@@ -16,6 +16,8 @@ Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](h
 - [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
 - [Building Chatbot with emotion](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)
 
+-[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977) [blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - 2020 - Google Brain presents Meena.    
+
 #### Potential Data Sources
 - [How to help someone feel better: NLP for mental health](https://nlp.stanford.edu/blog/how-to-help-someone-feel-better-nlp-for-mental-health/) - [NLP research and analysis](https://arxiv.org/abs/1605.04462) of effective counseling messages and techniques, includes a data source from [crisis text line](https://twitter.com/CrisisTextLine) with over 80,000 counseling sessions. [Data set](https://www.crisistextline.org/philosophy) can be obtained through external partnership.  
 - [Daily Dialog: A Manually Labelled Multi-turn Dialogue Dataset](https://arxiv.org/abs/1710.03957) 2017   
