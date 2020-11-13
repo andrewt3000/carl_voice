@@ -10,13 +10,17 @@ Here is a list of related research and commercial apps:
 - In 2017, Stanford Psychologist Alison Darcy launched [woebot](https://www.woebot.io/), a chatbot programmed to implement cognitive behavioral therapy based on [this research](https://mental.jmir.org/2017/2/e19/). Also see [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/article-abstract/2488315)  
 Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](https://github.com/lukalabs/cakechat)), [X2AI Tess](https://x2.ai/) 
 - [Xiaoice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiduLqknavWAhVCwiYKHYDbArkQFggoMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXiaoice&usg=AFQjCNFNCsKZxanfEkvYaFaYEudECm-DwA) is a [conversational](https://www.nytimes.com/interactive/2015/07/27/science/chatting-with-xiaoice.html?mcubz=0) Chinese Microsoft Chatbot. Microsoft also produced, but shut down English chatbots: [Tay](https://en.wikipedia.org/wiki/Tay_(bot)) and [Zo](https://twitter.com/zochats/with_replies?lang=en). 
+- [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
+#### Facebook
+- [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) / [blog](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) - 2020 Facebook blender bot trained on reddit data.   
+
+#### Google 
 - [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)  
 - [Albert](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html) (previously [Bert](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) )  - Google's transformer-based language model.  
-- [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
-- [Building Chatbot with emotion](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)
 -[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977) [blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - 2020 - Google Brain presents Meena, a chatbot trained on 40B words on 2.6B parameter neural network.    
-- [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) / [blog](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) - 2020 Facebook blender bot trained on reddit data.   
-- [GPT-2](https://openai.com/blog/better-language-models/) Open AI large transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)  [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) 
+
+#### Open AI
+- [GPT-2](https://openai.com/blog/better-language-models/) Open AI large (1.5B parameters) transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)  [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) 
 - [GPT-3](https://openai.com/blog/openai-api/) - Open AI transformer-based langauge model, trained on 175B parameters. Available through an api currently in limited beta.    
 
 #### Potential Data Sources
