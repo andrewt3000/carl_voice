@@ -12,7 +12,7 @@ Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](h
 - [Xiaoice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiduLqknavWAhVCwiYKHYDbArkQFggoMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXiaoice&usg=AFQjCNFNCsKZxanfEkvYaFaYEudECm-DwA) is a [conversational](https://www.nytimes.com/interactive/2015/07/27/science/chatting-with-xiaoice.html?mcubz=0) Chinese Microsoft Chatbot. Microsoft also produced, but shut down English chatbots: [Tay](https://en.wikipedia.org/wiki/Tay_(bot)) and [Zo](https://twitter.com/zochats/with_replies?lang=en). 
 - [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
 #### Facebook
-- [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) / [blog](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) - 2020 Facebook blender bot trained on reddit data.   
+- [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) / [blog](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) - 2020 Facebook blender bot trained on reddit data is [open source](https://parl.ai/projects/recipes/).   
 
 #### Google 
 - [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)  
