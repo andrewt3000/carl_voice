@@ -11,13 +11,13 @@ Here is a list of related research and commercial apps:
 Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](https://github.com/lukalabs/cakechat)), [X2AI Tess](https://x2.ai/) 
 - [Xiaoice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiduLqknavWAhVCwiYKHYDbArkQFggoMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXiaoice&usg=AFQjCNFNCsKZxanfEkvYaFaYEudECm-DwA) is a [conversational](https://www.nytimes.com/interactive/2015/07/27/science/chatting-with-xiaoice.html?mcubz=0) Chinese Microsoft Chatbot. Microsoft also produced, but shut down English chatbots: [Tay](https://en.wikipedia.org/wiki/Tay_(bot)) and [Zo](https://twitter.com/zochats/with_replies?lang=en). 
 - [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)  
-- [GPT-2](https://openai.com/blog/better-language-models/) Open AI large transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)  [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) 
 - [Albert](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html) (previously [Bert](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) )  - Google's transformer-based language model.  
 - [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
 - [Building Chatbot with emotion](http://web.stanford.edu/class/cs224s/reports/Honghao_Wei.pdf)
 -[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977) [blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - 2020 - Google Brain presents Meena, a chatbot trained on 40B words on 2.6B parameter neural network.    
 - [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) / [blog](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) - 2020 Facebook blender bot trained on reddit data.   
-- [GPT-3](https://openai.com/blog/openai-api/) 
+- [GPT-2](https://openai.com/blog/better-language-models/) Open AI large transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)  [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) 
+- [GPT-3](https://openai.com/blog/openai-api/) - Open AI transformer-based langauge model, trained on 175B parameters. Available through an api currently in limited beta.    
 
 #### Potential Data Sources
 - [How to help someone feel better: NLP for mental health](https://nlp.stanford.edu/blog/how-to-help-someone-feel-better-nlp-for-mental-health/) - [NLP research and analysis](https://arxiv.org/abs/1605.04462) of effective counseling messages and techniques, includes a data source from [crisis text line](https://twitter.com/CrisisTextLine) with over 80,000 counseling sessions. [Data set](https://www.crisistextline.org/philosophy) can be obtained through external partnership.  
