@@ -21,7 +21,7 @@ Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](h
 
 #### Open AI
 - [GPT-2](https://openai.com/blog/better-language-models/) Open AI large (1.5B parameters) transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)  [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) 
-- [GPT-3](https://openai.com/blog/openai-api/) - Open AI transformer-based langauge model, trained on 175B parameters. Available through an api currently in limited beta.    
+- [GPT-3](https://openai.com/blog/openai-api/) - Open AI transformer-based langauge model, trained on 175B parameters and 499B word tokens and at an estimated cost of [$4.6M]( https://lambdalabs.com/blog/demystifying-gpt-3/). It is availabe through an api currently in limited beta.    
 
 #### Potential Data Sources
 - [How to help someone feel better: NLP for mental health](https://nlp.stanford.edu/blog/how-to-help-someone-feel-better-nlp-for-mental-health/) - [NLP research and analysis](https://arxiv.org/abs/1605.04462) of effective counseling messages and techniques, includes a data source from [crisis text line](https://twitter.com/CrisisTextLine) with over 80,000 counseling sessions. [Data set](https://www.crisistextline.org/philosophy) can be obtained through external partnership.  
