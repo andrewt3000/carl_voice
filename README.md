@@ -18,6 +18,7 @@ Other Commercial apps: [Replika](https://replika.ai/) (open source [cake chat](h
 - [Neural Conversation Model (2015)](https://arxiv.org/abs/1506.05869)  
 - [Albert](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html) (previously [Bert](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) )  - Google's transformer-based language model.  
 -[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977) [blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - 2020 - Google Brain presents Meena, a chatbot trained on 40B words on 2.6B parameter neural network.    
+- 2021 - [LaMDA](https://blog.google/technology/ai/lamda/)  
 
 #### Open AI
 - [GPT-2](https://openai.com/blog/better-language-models/) Open AI large (1.5B parameters) transformer-based language model. Generates realistic and coherent synthetic text.  [GPT-2 code](https://github.com/openai/gpt-2) / [GPT-2 blog](https://openai.com/blog/better-language-models/)  [GPT-2 model](https://openai.com/blog/gpt-2-1-5b-release/) 
